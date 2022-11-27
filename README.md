@@ -71,7 +71,7 @@ mkdir ../../compatdata/284160/pfx/drive_c/users/steamuser/AppData/Local/BeamNG.d
  #### Running the game with CrossOver - Mac
  1. Select your Bottle towards the left of crossover
  2. Open advanced options and click on the Open C: drive button
- 3. Finder will open, navigate to `/users/crossover/Local/AppData/BeamNG.drive/0.26/temp/art`
+ 3. Finder will open, navigate to `/users/crossover/AppData/Local/BeamNG.drive/0.26/temp/art`
   - Should the `temp` or `art` folders not exist, create them.
  4. Once inside the `art` folder, open the Terminal [at the current location](https://www.maketecheasier.com/launch-terminal-current-folder-mac/)
  5. Use the commands [above](https://github.com/SnoutBug/BeamNG_terrainMaterialCache#default-maps) **excluding** the first two (`mkdir` and `cd`)
